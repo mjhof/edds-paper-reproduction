@@ -9,7 +9,7 @@ Publication: [Reproducibility Study: On Heavy-User Bias in A/B Testing](https://
 ├─ Simulations-Optimized.ipynb # Optimized simulations and significance testing.     
 ├─ Simulations-Original.ipynb  # Original simulations of analysed paper [1].
 ├─ combination_results.csv     # Results for different parameter combinations.
-├─ requirements.yml            # Conda Environment
+├─ environment.yml            # Conda Environment
 ```
 ## Run Simulations
 ### 1. Conda Environment
